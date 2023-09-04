@@ -11,7 +11,7 @@ date: 2023-09-05
 まあ仲良くしてくだせえ。 
 ## SNSリンクとか  
 https://solo.to/yukkuriplus2 ここにもリンクあります  
-X:https://twitter.com/yukkuriplus2  
+X:[https://twitter.com/yukkuriplus2]  
 Misskey(io):https://misskey.io/@yukkuriplus2  
 Misskey(dev):https://misskey.dev/@yukkuriplus2  
 はてなブログ:https://yukkuriplus2.hatenablog.jp/  
