@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2023-09-05
+date: 2023-09-24
 ---
 
 # ゆっくり++のさいと  
@@ -20,7 +20,8 @@ PC構成:
  CPU:Corei5-6500
  GPU:なにそれおいしいの
  メモリ:32GB
- ストレージ:Crucial P3 Plus 500GB,Crucial MX500 500GB,Hanye Q60 500GB,Seagate HDD 500GB  
+ ストレージ:Crucial P3 Plus 500GB,Crucial MX500 500GB,  
+ 　　　　　 Hanye Q60 500GB,Seagate HDD 500GB  
 本人からの一言:( ﾟ∀ﾟ)o彡ﾟ　えーりん！えーりん！！
 
  
