@@ -3,25 +3,5 @@ title: Home
 date: 2023-09-24
 ---
 
-# ゆっくり++のさいと  
- 
-## 概要  
-ゆっくり好きなただの人。PCいじりや電子工作が趣味。LogicoolとかSandiskとかが好きなメーカー(ブランド)。  
-性別は男。学生。  
-まあ仲良くしてくだせえ。 
-## SNSリンクとか  
-[solo.to/yukkuriplus2](https://solo.to/yukkuriplus2)ここにまとめてるよ
-
-## 自己紹介  
-好きな曲:神々が恋した幻想郷、上海紅茶館　～ Chinese tea.、ナイト・オブ・ナイツ、カラフルバレット88などなど  
-好きなゲーム:東方Project(ほかは全然やってない)  
-PC構成:
- PC本体:NEC Mate  
- CPU:Corei5-6500
- GPU:なにそれおいしいの
- メモリ:32GB
- ストレージ:Crucial P3 Plus 500GB,Crucial MX500 500GB,  
- 　　　　　 Hanye Q60 500GB,Seagate HDD 500GB  
-本人からの一言:( ﾟ∀ﾟ)o彡ﾟ　えーりん！えーりん！！
-
- 
+# 当サイトは以下のページに移行されました。  
+https://yukkuriplus2.web.fc2.com/
